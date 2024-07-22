@@ -1,4 +1,7 @@
 # Claude 3.5 Artifacts System Prompt
+## Acknowledgements
+
+This system prompt is as provided by [Pliny the Prompter](https://x.com/elder_plinius?s=21) so be sure to check out their account on X (formerly Twitter)
 
 ## Overview
 
@@ -11,7 +14,6 @@ This repository contains the leaked system prompt for Claude 3.5 Artifacts. The 
 ## Important Notes
 
 - The leaked system prompt is intended for educational and research purposes only.
-- Unauthorized use or distribution of this prompt for commercial purposes is prohibited.
 - The information contained in this prompt may be outdated or inaccurate. Use it with caution and verify any details as needed.
 
 ## Usage
